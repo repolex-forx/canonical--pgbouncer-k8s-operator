@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "pgbouncer-k8s-operator",
+  "versions": [
+    {
+      "commit": "a4c57c09f31531c5b548cbd69cc7d9e1bac7dd80",
+      "tag": "",
+      "parsed_at": "2026-11-08T19:04:17.803060+00:00"
+    }
+  ]
+}
